@@ -1,82 +1,107 @@
+<div dir="rtl" align="right">
+
+# محمد عبد النبي
+
+### مطوّر تطبيقات وأتمتة
+
+> أبني تطبيقات مفيدة، وأتعلم من كل مشروع.
+
+هذا المكان أجمع فيه ما أعمل عليه: تطبيقات موبايل، أدوات ويب صغيرة، وتجارب أتمتة. أحب أن تكون الفكرة واضحة قبل أن تصبح معقدة.
+
+[الموقع الشخصي](https://mohamed-abdalnaby.is-a.dev/) · [راسلني](mailto:dev.mohamed.abdalnabi@gmail.com) · [يوتيوب](https://www.youtube.com/@dev.mohamed.abdalnabi)
+
+</div>
+
 <div align="center">
-
-# Hi, I'm Mohamed Abdalnabi 👋
-
-### Full-Stack Web & App Developer · Builder of smart, simple digital products
-
-<a href="https://mohamed-abdalnaby.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<a href="https://github.com/dev-mohamed-abdalnabi"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-
+  <img src="https://mohamed-abdalnaby.is-a.dev/assets/dev.mohamed.abdalnabi.jpg" width="240" alt="محمد عبد النبي" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=180&section=header&text=Mohamed%20Abdalnabi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Turning%20ideas%20into%20useful%20products&descAlignY=60&descSize=18" width="100%" alt="Profile banner" />
-</div>
+<div dir="rtl" align="right">
 
-## About me
+## عنّي
 
-I’m **Mohamed Abdalnabi**, a developer who enjoys creating practical websites, applications, automation tools, and AI-powered experiences. I care about clean interfaces, reliable functionality, and turning complex ideas into products people can actually use.
+أنا **محمد عبد النبي**، ويظهر اسمي أحيانًا بالإنجليزية بصيغ مختلفة: **Dev Mohamed Abdalnabi** أو **Mohamed Abdalnabi** أو **Muhammad.Abdalnaby**.
 
-- I build web and mobile experiences with a product-focused mindset.
-- I explore automation and AI to make everyday workflows faster and simpler.
-- I enjoy learning by shipping real projects and improving them continuously.
-- I’m open to collaboration, freelance work, and interesting technical challenges.
+أتنقل بين تطبيقات أندرويد، صفحات الويب، وأدوات الأتمتة العملية. لا أتعامل مع كل مشروع كأنه نسخة من الذي قبله؛ أبدأ بالفكرة، ثم أترك التنفيذ يوضح ما الذي يستحق أن يبقى.
 
-## What I work with
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB)
-![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=5FA04E)
-![Kotlin](https://img.shields.io/badge/Kotlin-0f172a?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
+أعمل بشكل مستقل من مصر، وأحاول أن أضع تركيزي في الأشياء التي تُستخدم فعلًا، لا في إضافة التعقيد لمجرد أن التقنية تسمح بذلك.
 
 </div>
 
-## Featured projects
+<div dir="rtl" align="right">
 
-| Project | Description | Stack |
-|---|---|---|
-| [Quran Automation](https://github.com/dev-mohamed-abdalnabi/Quran-Automation) | Automation tools for publishing and managing Quran-related content. | Python |
-| [Muhammad Abdalnaby Portfolio](https://github.com/dev-mohamed-abdalnabi/Muhammad.Abdalnaby) | My personal portfolio and professional online presence. | TypeScript |
-| [Flow Studio](https://github.com/dev-mohamed-abdalnabi/flow-studio) | A creative web project focused on smooth, modern experiences. | HTML |
-| [Nuqta](https://github.com/dev-mohamed-abdalnabi/nuqta) | A store-oriented digital product project. | JavaScript |
-| [Smart Meta Search](https://github.com/dev-mohamed-abdalnabi/smart-meta-search) | A smarter way to explore and organize search experiences. | TypeScript |
+## أضع تركيزي حاليًا في
 
-## GitHub activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-mohamed-abdalnabi&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=22d3ee&text_color=e2e8f0&rank_icon=github" height="170" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mohamed-abdalnabi&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0" height="170" alt="Top languages" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dev-mohamed-abdalnabi&theme=github-dark-blue&hide_border=true&background=0f172a&ring=38bdf8&fire=22d3ee&currStreakLabel=e2e8f0" alt="GitHub contribution streak" />
-</div>
-
-## Let’s connect
-
-<div align="center">
-
-<a href="https://mohamed-abdalnaby.is-a.dev"><img src="https://img.shields.io/badge/Website-mohamed--abdalnaby.is--a.dev-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-<a href="mailto:contact@mohamed-abdalnaby.is-a.dev"><img src="https://img.shields.io/badge/Email-Contact%20me-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+| المجال | ما يعنيه بالنسبة لي |
+|---|---|
+| **تطبيقات الموبايل** | أفكر في التجربة التي يفتحها المستخدم كل يوم، قبل أن أفكر في عدد الشاشات. |
+| **الأتمتة المفيدة** | أبني مسارات صغيرة تختصر التكرار وتترك وقتًا أكبر للعمل الحقيقي. |
+| **التجارب الخاصة** | أجرب أفكارًا خفيفة وواجهات وأدوات أتعلم منها شيئًا جديدًا. |
 
 </div>
 
-<div align="center">
+## مشاريع أعمل عليها أو عدت إليها
 
-> Building useful things, learning every day, and enjoying the process.
+<div dir="rtl" align="right">
 
-<img src="https://komarev.com/ghpvc/?username=dev-mohamed-abdalnabi&style=flat-square&color=2563eb" alt="Profile views" />
+### [Quran Automation](https://github.com/dev-mohamed-abdalnabi/Quran-Automation)
+
+محرك أتمتة لإنتاج ونشر الفيديوهات القرآنية القصيرة بخط سير واضح وقابل للتطوير. يهتم بالتشغيل المجدول، واختيار آيات متماسك، ورندر يمكن متابعته.
+
+### [نقطة | Nuqta](https://nuqta-mall.vercel.app/)
+
+متجر أونلاين لملابس الأوفر سايز، من الاستكشاف إلى تأكيد الطلب عبر واتساب في تجربة خفيفة ومباشرة.
+
+### [الشيخ | منصة التعليم الشرعي](https://khaled-ali.vercel.app)
+
+منصة تعليمية منظمة لطلاب الإعدادي والثانوي الأزهري، تجمع المحتوى والمتابعة في تجربة أوضح للطالب.
+
+### [Next AI Notes](https://apkpure.com/p/com.next)
+
+تطبيق ملاحظات ذكي لتنظيم الأفكار وتحويل النصوص الطويلة إلى ملخصات عملية وسريعة.
+
+### [تطبيق القرآن](https://www.dropbox.com/scl/fi/2v2pv2zx035yv5hre7ubd/com.flow.studio.Quran_1.0.apk?rlkey=5x1wn01ortddnak2kjxvdgx6q&st=953t4ya5&dl=1)
+
+تجربة مريحة لقراءة القرآن والاستماع إليه، بواجهة عصرية تركّز على الهدوء والوضوح.
 
 </div>
 
-<!-- Designed for dev-mohamed-abdalnabi -->
+## طريقة الشغل
+
+<div dir="rtl" align="right">
+
+**01 — أفهم المطلوب.** أحاول أن أفهم المشكلة والسياق قبل أن أقرر شكل الحل أو التقنية المناسبة له.
+
+**02 — أرتب الأولويات.** أبدأ بالجزء الذي يجعل المشروع مفيدًا، ثم أترك التفاصيل تتطور معه خطوة بخطوة.
+
+**03 — أبني وأراجع.** أهتم بأن يعمل الشيء كما ينبغي، ثم أراجع التجربة من زاوية الشخص الذي سيستخدمه.
+
+</div>
+
+## الأدوات التي أستخدمها
+
+<div align="center">
+
+`TypeScript` · `JavaScript` · `Python` · `React` · `Next.js` · `Node.js` · `Kotlin` · `Android` · `HTML` · `CSS`
+
+</div>
+
+<div dir="rtl" align="right">
+
+## لو حابب نتكلم
+
+ابعت لي نبذة بسيطة عن الفكرة أو المشروع، وهنشوف إن كان مناسب نشتغل عليه سوا.
+
+**كل شيء يمر.**
+
+</div>
+
+<div align="center">
+
+[![الموقع](https://img.shields.io/badge/الموقع-محمد_عبد_النبي-263f42?style=flat-square)](https://mohamed-abdalnaby.is-a.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-dev--mohamed--abdalnabi-263f42?style=flat-square&logo=github)](https://github.com/dev-mohamed-abdalnabi)
+[![البريد](https://img.shields.io/badge/البريد-تواصل-263f42?style=flat-square&logo=gmail)](mailto:dev.mohamed.abdalnabi@gmail.com)
+
+</div>
